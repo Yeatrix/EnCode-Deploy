@@ -4,7 +4,7 @@ Sergio is an AI-powered, voice-enabled sales agent designed to assist users in r
 
 With Sergio, users can communicate in natural language, inquire about properties, and close deals seamlessly, ensuring a professional, customer-focused experience.  
 
-Experience at [encode-sergio](https://encode-sergio.streamlit.app/)
+Experience at [encode-sergio](https://sergio-encode.streamlit.app/)
 
 ---
 
